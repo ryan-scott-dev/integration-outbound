@@ -15,7 +15,7 @@
     }
   },
   "output": {
-    "event": "[Segment Screen]",
+    "event": "[Segment Screen View]",
     "properties": {
       "property": true
     },

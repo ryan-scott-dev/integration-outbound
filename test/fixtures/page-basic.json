@@ -15,7 +15,7 @@
     }
   },
   "output": {
-    "event": "[Segment Page]",
+    "event": "[Segment Page View]",
     "properties": {
       "property": true
     },

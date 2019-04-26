@@ -16,7 +16,7 @@
     }
   },
   "output": {
-    "event": "[Segment Page] Home",
+    "event": "[Segment Page View]",
     "properties": {
       "name": "Home",
       "property": true
